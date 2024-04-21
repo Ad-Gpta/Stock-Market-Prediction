@@ -6,4 +6,4 @@ using PyTorch RNN and LSTM
 
 PySpark -
 on Apple stock price data
-using Linear Regression, Random Forest, Decision Trees
+using PySpark.ml - Linear Regression, Random Forest, Decision Trees
